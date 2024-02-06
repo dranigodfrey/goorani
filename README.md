@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi 👋, I'm Drani Godfrey</h1>
+<h1 align="center">Hi 👋, Drani here!</h1>
 <h3 align="center">A passionate fullstack developer from Uganda</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
