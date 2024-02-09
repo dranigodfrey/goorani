@@ -1,14 +1,14 @@
 <!-- [![MasterHead](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)](https://rishavchanda.io) -->
 
-<h1 align="center">Hi 👋, Drani here!</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h1 align="left">Hi 👋, Drani here!</h1>
+<h3 align="left">A Passionate Fullstack Developer</h3>
 
 <!--- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goorani&label=Profile%20views&color=0e75b6&style=flat" alt="goorani" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goorani&label=Profile%20views&color=0e75b6&style=flat" alt="goorani" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dranigodfrey" target="blank"><img src="https://img.shields.io/twitter/follow/dranigodfrey?logo=twitter&style=for-the-badge" alt="dranigodfrey" /></a> </p>
-
+-->
 - 💬 Ask me about **Python, Django, JavaScript, React**
 
 - 📫 How to reach me **godfreydrani626@gmail.com**
