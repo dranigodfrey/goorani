@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/dranigodfrey" target="blank"><img src="https://img.shields.io/twitter/follow/dranigodfrey?logo=twitter&style=for-the-badge" alt="dranigodfrey" /></a> </p>
 -->
-- 💬 Ask me about **Python, Django, React**
+- **Python, Django, React**
 
-- 📫 How to reach me **godfreydrani626@gmail.com**
+- Email me **godfreydrani626@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
